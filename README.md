@@ -1,7 +1,6 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title>тест страница</title>
 	</head>
 	<body>
 		Привет)<br>
