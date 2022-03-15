@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 	<head>
 		<meta charset="UTF-8">
@@ -31,9 +30,5 @@
 	<input placeholder="любое число">
 	<p> </p>
 	<textarea placeholder="расскажите о себе"></textarea>
-	<p> </p>
-	<video controls="controls" width="500" height=""400">
-		<source src="https://youtu.be/lCbAt7bp0H4" type="video/mp4">
-	</video>
 	</body>
 </html>
