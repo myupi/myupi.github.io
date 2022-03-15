@@ -28,7 +28,5 @@
 	</table>
 	<p> </p>
 	<input placeholder="любое число">
-	<p> </p>
-	<textarea placeholder="расскажите о себе"></textarea>
 	</body>
 </html>
